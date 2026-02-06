@@ -12,7 +12,7 @@ We build practical web products and internal tools — focusing on performance, 
 - **Prototypes to production** (fast iteration, maintainable builds)
 
 ## Achievements
-- **Delivered to 5 Happy clients**
+- **Delivered to 5 Happy clients in 6 months**
 - **4.6M views** delivered on Meta platforms for small businesses
 - **Proud sponsor** of MaldonCC
 - **Committee member** at MaldonCC
