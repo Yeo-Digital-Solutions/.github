@@ -5,19 +5,22 @@ We build practical web products and internal tools — focusing on performance, 
 ## What we do
 - **Web apps & platforms** (Next.js, modern UI, scalable patterns)
 - **APIs & integrations** (payments, auth, automation, data)
-- **Cloud & edge deployment** (Cloudflare-first where it makes sense)
+- **Cloud & edge deployment** (Cloudflare-first where it makes sense, AWS when it’s the right fit)
+- **Java / Python / Rust applications** (services, tooling, automation, performance-critical builds)
 - **Prototypes to production** (fast iteration, maintainable builds)
 
 ## Featured repositories
 We don't have any public projects.
 
-But keep an eye out for a new product coming soon! 
+But keep an eye out for a new product coming soon 💀
 
 ## Tech we like working with
-Next.js • TypeScript • Cloudflare Workers • D1 • PostgreSQL • Auth.js • Supabase • Docker
+Next.js • TypeScript • Java • Python • Rust • Cloudflare Workers • D1 • PostgreSQL • Auth.js • Supabase • Docker • AWS
 
 ## Contributing
-If you’d like to contribute, open an issue or pull request in the relevant repo. Please follow each repo’s contributing guidelines.
+All projects are currently private and confidential.
+
+Going forward, some in-house apps may open up options for contribution — if that happens, we’ll publish guidelines on the relevant repositories.
 
 ## Contact
 - Email: **contact@yeods.co.uk**
